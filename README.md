@@ -3,7 +3,8 @@ This project showcases an interactive and dynamic Power BI Sales Dashboard desig
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview]
+![Dashboard Preview]![Screenshot 2025-05-12 192735](https://github.com/user-attachments/assets/7b8e0e91-2b42-41c5-895b-e139084cabe4)
+
 
 # 📊 Power BI Sales Dashboard - Quarterly Sales Analysis
 
